@@ -1,0 +1,7 @@
+###
+POST http://localhost:8081/demo1/put
+Content-Type: application/json;charset=UTF-8
+
+{
+ "weekDay":1
+}
