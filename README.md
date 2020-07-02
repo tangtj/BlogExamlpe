@@ -4,3 +4,4 @@
 
 - [Jackson自定义枚举值反序列化](https://tangtj.cn/index.php/archives/37/)
 - [Spring MVC Controller自定义方法参数](https://tangtj.cn/index.php/archives/38/)
+- [Spring Controller方法入参@Validated注解实现](https://tangtj.cn/index.php/archives/47/)
