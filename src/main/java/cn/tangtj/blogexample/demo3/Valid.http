@@ -1,0 +1,13 @@
+POST http://{{url}}/valid/valid
+Content-Type: application/json
+
+{
+  "value": -1
+}
+
+###
+GET http://{{url}}/valid/open
+
+###
+GET http://{{url}}/valid/auth
+token: 123
